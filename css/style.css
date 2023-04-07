@@ -9,27 +9,29 @@
     }
 
     .logo{
-        height: 100px;
         width: 70px;
+        height: 100px;
     }
-
+    
     .userCamille{
-        height: 50px;
-        width:50px;
         border-radius: 100%;
+        height: 50px;
+        width: 50px;
     }
-
+    
     .navbar{
         width: 100%;
         display: flex;
         justify-content: space-between;
         padding-left: 16px;
         padding-right: 16px;
+        margin-bottom: -40px;
     }
-
+    
     hr{
         margin-top: -20px;
     }
+    
 
     .addition{
         padding-left: 16px;

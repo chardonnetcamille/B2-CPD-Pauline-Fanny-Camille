@@ -6,6 +6,7 @@ body{
     margin-right: 0;
 
 }
+
 .logo{
     width: 70px;
     height: 100px;
@@ -23,11 +24,13 @@ body{
     justify-content: space-between;
     padding-left: 16px;
     padding-right: 16px;
+    margin-bottom: -40px;
 }
 
 hr{
     margin-top: -20px;
 }
+
 .nom{
    display: flex; 
    flex-direction: row;
