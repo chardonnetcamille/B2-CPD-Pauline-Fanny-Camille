@@ -26,15 +26,11 @@ body{
     margin-bottom: -40px;
 }
 
-hr{
-    margin-top: -20px;
-}
-
 .hautdepage{
     width: 390px;
     height: 123px;
     background-color: #FFF7E2;
-    margin-top: -20px;
+    margin-top: 10px;
 }
 .bi-arrow-left{
     margin-left: 20px;
