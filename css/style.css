@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Poppins&display=swap');
+
+    body, html{
+        font-family: poppins, roboto;
+        
+        margin: 0;
+        padding:0;
+    
+    }
+
+    .logo{
+        height: 100px;
+        width: 70px;
+    }
+
+    .userCamille{
+        height: 50px;
+        width:50px;
+        border-radius: 100%;
+    }
+
+    .navbar{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    hr{
+        margin-top: -20px;
+    }
+
+    .addition{
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .top, .total, .chacun, .égale{
+        font-weight:1000;
+        font-size: 18px;
+    }
+
+
+    .total{
+        display: flex;
+        align-items: center;
+    }
+
+.toutPaye{
+    border-radius: 5px;
+    border: #FFBB0D solid 1px;
+    height: 80px;
+    width: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+    .petitePhoto{
+        height: 30px;
+        width:30px;
+        border-radius: 100%;
+    }
+
+    .l1{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .rose{
+        display: flex;
+        justify-content: center;
+    }
+
+    .merci{
+        display: flex;
+        align-items: center;
+        margin-top: 6px;
+        background-color: #FDA9B3;
+        border-radius: 5px;
+        width: 220px;
+        display: flex;
+        flex-direction: column;
+        padding:5px ;
+    }
+
+    .ligne2{
+        font-weight: bolder;
+    }
+
+
+    .partage{
+        margin-top: 15px;
+        border-top: grey solid;
+        display: flex;
+        justify-content: center;
+    }
+
+    .trianglePhotos{
+        display: flex;
+        justify-content: center;
+        margin-right: -35px;
+    }
+
+    .fann{
+        transform: translate(-10px);
+    }
+
+    .pau{
+        transform: translate(-50px);
+        margin-top: 15px;
+    }
+
+    .possibilites{
+        margin-top: 36px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .payement{
+        margin-top: 15px;
+        display: flex;
+        justify-content: space-around;
+    
+    }
+
+    .liste ul{
+        list-style-type: circle;
+        padding-left: 10px;
+    }
+
+    .liste li{
+        font-size: 16px;
+        font-weight: normal;
+    }
+
+    .totalVous{
+        border: #FFBB0D solid 1px;
+        border-radius: 5px;
+        padding: 4px;
+    }
+
+    .personne{
+        padding: 10px;
+        border: #FFBB0D solid 1px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        width: fit-content;
+        flex-direction: column;
+    }

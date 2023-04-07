@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Poppins&display=swap');
+
+    body, html{
+        font-family: poppins, roboto;
+        
+        margin: 0;
+        padding:0;
+    }
+
+
+
+    .logo{
+        width: 70px;
+        height: 100px;
+    }
+    .usercamille{
+        border-radius: 100%;
+        height: 50px;
+        width: 50px;
+    }
+    
+    .navbar{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    hr{
+        margin-top: -20px;
+    }
+
+
+.userCamille{
+    height: 45px;
+    width: 45px;
+    background-image: url("images/camille.png");
+    background-size: contain;
+}
+
+.navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+    /* margin-bottom: -40px;*/
+     height: 7vh;
+    border-bottom: lightgrey solid 1px;
+    }
+
+
+.recherche{
+    margin-left: 25px;
+    margin-right: 25px;
+    width: 370px;
+    height: 34px ;
+    border-radius: 27px;
+    background-color: #F6F6F6;
+    margin-top: 25px;
+    display: flex;
+    justify-content: baseline;
+    }
+.recherche p{
+    color: #CDCDCD;
+    padding-top: 5px;
+}
+
+.texteRecherche{
+    margin: 0;
+    margin-left: 15px;
+}
+
+.onglets{
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.onglets span .tout{
+    font-size: 16px;
+}
+
+.onglets .choix{
+    color: #CDCDCD;
+    font-weight: 100;
+}
+
+.tout{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.page{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.recent{
+    display: flex;
+    flex-direction: column;
+    
+}.liste{
+    display: flex;
+    flex-direction: column;
+}
+
+p{
+    font-weight: 100;
+}
+
+.meilleures{
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    height: 18px;
+    width: 18px;
+}
+
+.tacos{
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 0;
+    margin-right: 0;
+
+}
+.logo{
+    width: 70px;
+    height: 100px;
+}
+.usercamille{
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+}
+
+.navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+hr{
+    margin-top: -20px;
+}
+.hautdepage{
+    width: 390px;
+    height: 123px;
+    background-color: #FFF7E2;
+    margin-top: -20px;
+}
+.bi-arrow-left{
+    margin-left: 20px;
+}
+.hautdepage p {
+    color: black;
+    margin-left: 20px;
+    margin-top: 60px;
+    font-size: 18px;
+}
+
+.filtrer{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.filtrer p { 
+    font-size: 15px;
+}
+.filtre{
+    margin-left: 15px;
+    background-color: #F6F6F6;
+    padding:5px;
+    height: 27px;
+    border-radius: 10px;
+}
+.emporter{
+    margin-left: 15px;
+    background-color: #F6F6F6;
+    padding:5px;
+    height: 27px;
+    border-radius: 10px;
+}
+
+.trier{
+    margin-left: 15px;
+    background-color: #F6F6F6;
+    padding:5px;
+    height: 27px;
+    border-radius: 10px;
+}
+.offres{
+    margin-left: 15px;
+    background-color: #F6F6F6;
+    padding:5px;
+    height: 27px;
+    border-radius: 10px;
+} 
+.resultats{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.resultat{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.titre{
+    font-size: 15px;
+    font-weight: 800px;
+}
+.texte p{
+    font-size: 12px;
+}
+.pizza{
+    max-width: 87px;
+    max-height: 87px;
+    margin-right: 15px;
+}
+
+
