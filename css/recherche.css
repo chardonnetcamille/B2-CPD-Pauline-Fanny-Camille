@@ -19,25 +19,6 @@
         width: 50px;
     }
     
-    .navbar{
-        width: 100%;
-        display: flex;
-        justify-content: space-between;
-        padding-left: 16px;
-        padding-right: 16px;
-    }
-    hr{
-        margin-top: -20px;
-    }
-
-
-.userCamille{
-    height: 45px;
-    width: 45px;
-    background-image: url("images/camille.png");
-    background-size: contain;
-}
-
 .navbar{
     width: 100%;
     display: flex;
@@ -50,6 +31,10 @@
     /* margin-bottom: -40px;*/
      height: 7vh;
     border-bottom: lightgrey solid 1px;
+    }
+
+    hr{
+        margin-top: -20px;
     }
 
 
